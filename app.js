@@ -6,7 +6,7 @@ var qs = require('querystring');
 
 //set up heroku environment variables
 var env_var = {
-	ga_key: process.env.UA-113203944-2
+	ga_key:UA-113203944-2
 };
 
 //Server Details
